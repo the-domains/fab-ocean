@@ -1,0 +1,186 @@
+layout_spectrum: 0.22075972701496638
+typography_spectrum: 0.4496157406281569
+color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.41714151150463974
+  lightness: 0.8486625338402936
+  saturation: 0.8160047789172519
+  rhythmicContrast: 0.9889052035334972
+content_rating:
+  adult: false
+opengraph:
+  type: ''
+  appId: ''
+analytics:
+  twitter: SZOIL
+author:
+  name: David Li
+  email: taweili@gmail.com
+name: Fab Ocean
+navigation:
+  - name: Ocean Economy
+    id: 891a957d-a594-48c2-b6c2-a5be90933fd1
+    type: content
+  - name: Mission
+    id: 0e3f781f-089d-417b-b3ec-b44df7d1015a
+    type: content
+  - name: Fab Lab by the Sea
+    id: b27afccf-98fd-4128-bb78-d05189a26fc3
+    type: content
+title: Fab Ocean
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ebfc4d7-52a9-4641-ad39-3d41383c947a.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ebfc4d7-52a9-4641-ad39-3d41383c947a.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ebfc4d7-52a9-4641-ad39-3d41383c947a.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ebfc4d7-52a9-4641-ad39-3d41383c947a.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb44a9f8-111c-432a-b012-bd163cfc0701.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb44a9f8-111c-432a-b012-bd163cfc0701.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3274a0b1-5f52-4cf7-b35f-1ff5ba8a7530.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3274a0b1-5f52-4cf7-b35f-1ff5ba8a7530.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1c31b3-bae9-4adc-9789-60b562f843d4.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1c31b3-bae9-4adc-9789-60b562f843d4.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f2a5c7b-b1ba-475c-b8d9-4275759c8a03.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f2a5c7b-b1ba-475c-b8d9-4275759c8a03.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Sustainable Ocean Economy Growth with Human, Robot and AI'
+purpose:
+  - type: contact
+    label: Contact me
+    url: 'mailto:info@fabocean.org'
+github: true
